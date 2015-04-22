@@ -12,11 +12,11 @@ Obviously, it will replace $CRAPPY_MESSAGE with  an actual crappy message.
 ## INSTALLING
 If you like wget:
 
-    wget -O - https://raw.githubusercontent.com/crapinstall.sh-commit/master/crapinstall.sh | bash
+    wget -O - https://raw.githubusercontent.com/v0y/crappy-commit/master/crapinstall.sh | bash
 
 If you're a curl-er:
 
-    curl -s https://raw.githubusercontent.com/crapinstall.sh-commit/master/crapinstall.sh | bash
+    curl -s https://raw.githubusercontent.com/v0y/crappy-commit/master/crapinstall.sh | bash
 
 
 ## HELP
