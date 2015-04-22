@@ -12,11 +12,11 @@ Obviously, it will replace $CRAPPY_MESSAGE with  an actual crappy message.
 ## INSTALLING
 If you like wget:
 
-    wget -O - https://raw.githubusercontent.com/jonnolen/hemorrhoid-commit/master/crapinstall.sh | bash
+    wget -O - https://raw.githubusercontent.com/crapinstall.sh-commit/master/crapinstall.sh | bash
 
 If you're a curl-er:
 
-    curl -s https://raw.githubusercontent.com/jonnolen/hemorrhoid-commit/master/crapinstall.sh | bash
+    curl -s https://raw.githubusercontent.com/crapinstall.sh-commit/master/crapinstall.sh | bash
 
 
 ## HELP
@@ -27,7 +27,3 @@ Or, you can run `crap add $INSERT\_MESSAGE\_HERE` to add custom messages to your
 
 
 `crap reset` downloads a fresh copy of the message list.
-
-## WEB API
-I'm planning to make an app to handle message adding, probably with node.
-
